@@ -1,0 +1,8 @@
+<resources>
+	<string name="app_name">WorkManagerKotlin</string>
+	<string name="bt_start_chaining">チェイン</string>
+	<string name="bt_start_chaining_several">複数チェイン</string>
+	<string name="bt_start_expedited">優先</string>
+	<string name="bt_start_periodic">繰り返し</string>
+	<string name="bt_work_cancel">キャンセル</string>
+</resources>
